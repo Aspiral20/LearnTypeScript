@@ -10,7 +10,7 @@ According to this video, you'll learn: [Props, Events, Router, Hooks, Requests](
 Web Site -> [JSON Placeholder](https://jsonplaceholder.typicode.com/)
 
 ###
-Mam oprit la 16:45
+Mam oprit la 30:00
 
 ### Other sources learn TypeScript:
 

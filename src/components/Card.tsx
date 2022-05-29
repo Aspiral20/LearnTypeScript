@@ -37,7 +37,8 @@ const Card: FC<CardProps> = ({
              // onClick={onClick}>                                      //onClick obisnuit
              // onClick={() => onClick ? onClick(state) : null}         //onClick cu functie in el, si nu e obligatorie
              onClick={() => {
-                 onClick(increment);
+                 increment();
+                 console.log(state);
              }}
         >
             {children}      {/*pentru a putea crea noi HTML-Elements*/}
